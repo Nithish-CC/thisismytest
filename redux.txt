@@ -1,0 +1,1 @@
+Store --------------------> store.js <--------------------- react app (index.js) types actions reducers react app -->src --> index.js ----><provider></provider>

@@ -1,0 +1,6 @@
+export const Todo = {
+    SET_TODO_CREATE : "SET_TODO_CREATE",
+    SET_TODO_UPDATE : "SET_TODO_UPDATE",
+    SET_TODO_DELETE : "SET_TODO_DELETE"
+}
+
